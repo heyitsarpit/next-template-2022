@@ -1,5 +1,5 @@
-import '@/public/styles/font.css'
-import '@/public/styles/global.css'
+import 'public/styles/font.css'
+import 'public/styles/global.css'
 
 const MyApp = ({ Component, pageProps }) => {
   return (

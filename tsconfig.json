@@ -15,11 +15,6 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "baseUrl": ".",
-    "paths": {
-      "@/ui/*": ["ui/*"],
-      "@/utils/*": ["utils/*"],
-      "@/public/*": ["public/*"]
-    }
   },
   "exclude": ["node_modules"],
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
